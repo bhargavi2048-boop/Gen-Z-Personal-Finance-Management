@@ -2,6 +2,7 @@
 
 > **A real-world, algorithmic personal finance dashboard built for Gen Z users managing a ₹10,000 budget over a 30-day cycle.**
 
+  
    [![React](https://img.shields.io/badge/React-18.3-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6_Strict-blue.svg)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC.svg)](https://tailwindcss.com/)
